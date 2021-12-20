@@ -15,8 +15,8 @@ const Proposal = styled.p`
   margin-top: 3px;
 `;
 
-const PremiumButton = styled(CardButton)`
-  margin-top: 16px;
+const Button = styled(CardButton)`
+  margin-top: 20px;
 `;
 
 export const Radar = () => (
@@ -32,6 +32,6 @@ export const Radar = () => (
       Get a clear picture of rain’s potential impact in your area a full day in
       advance with Premium for Web.
     </Proposal>
-    <PremiumButton>Go Premium</PremiumButton>
+    <Button>Go Premium</Button>
   </Root>
 );
