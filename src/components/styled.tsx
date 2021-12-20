@@ -14,9 +14,15 @@ export const ContentContainer = styled.div<{
 }>`
   display: flex;
   border-radius: 6px;
+  padding: 16px;
   line-height: 1.5;
+  overflow: hidden;
   ${({ withShadow = true }) =>
     withShadow && "box-shadow: 0 0 12px 0 rgb(0 0 0 / 20%)"};
   background: ${({ withTransparentBg = false }) =>
     withTransparentBg ? "hsla(0,0%,100%,.1)" : "white"};
+
+  &:not(:first-child) {
+    margin-top: 12px;
+  }
 `;

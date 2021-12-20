@@ -35,6 +35,7 @@ const IMAGE_MAP = {
   georgia: require("../assets/icons/georgia.svg"),
   disabled: require("../assets/icons/disabled.svg"),
   cloud: require("../assets/icons/cloud.svg"),
+  chart: require("../assets/icons/chart.svg"),
 };
 
 interface IProps extends ISizeParams {

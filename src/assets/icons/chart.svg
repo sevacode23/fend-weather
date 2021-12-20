@@ -1,0 +1,250 @@
+<svg class="PrecipIntensityBarChart--chart--YYdbg" viewBox="0, 0, 692, 140" aria-hidden="true" xmlns="http://www.w3.org/2000/svg">
+    <title>Precipitation Intensity Chart</title>
+    <defs>
+        <linearGradient id="precipchart_rain_gradient" y2="0" x1="0" y1="110" x2="0" gradientUnits="userSpaceOnUse">
+            <stop offset="0%" stop-color="#A4D0C3"></stop>
+            <stop offset="90%" stop-color="#004F69"></stop>
+            <stop offset="100%" stop-color="#004F69"></stop>
+        </linearGradient>
+    </defs>
+    <defs>
+        <linearGradient id="precipchart_snow_gradient" y2="0" x1="0" y1="110" x2="0" gradientUnits="userSpaceOnUse">
+            <stop offset="0%" stop-color="#A3E3EF"></stop>
+            <stop offset="20%" stop-color="#72C2D4"></stop>
+            <stop offset="55%" stop-color="#4899B3"></stop>
+            <stop offset="100%" stop-color="#024362"></stop>
+        </linearGradient>
+    </defs>
+    <defs>
+        <linearGradient id="precipchart_precip_gradient" y2="0" x1="0" y1="110" x2="0" gradientUnits="userSpaceOnUse">
+            <stop offset="0%" stop-color="#DBBBD4"></stop>
+            <stop offset="55%" stop-color="#B96890"></stop>
+            <stop offset="100%" stop-color="#763E67"></stop>
+        </linearGradient>
+    </defs>
+    <g class="artboard">
+        <g class="xAxis" transform="translate(-11, 114)" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle">
+            <g class="tick" opacity="1" transform="translate(58.5,0)">
+                <line stroke="currentColor" y2="7" class="PrecipIntensityBarChart--hourTick--1gctM"></line>
+                <text fill="currentColor" y="14" dy="0.71em" class="PrecipIntensityBarChart--xAxisLabel--3Nu0K">Now</text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(80.5,0)">
+                <line stroke="currentColor" y2="6" class="PrecipIntensityBarChart--minuteTick--2GIs2"></line>
+                <text fill="currentColor" y="9" dy="0.71em" class="PrecipIntensityBarChart--xAxisLabel--3Nu0K"></text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(102.5,0)">
+                <line stroke="currentColor" y2="6" class="PrecipIntensityBarChart--minuteTick--2GIs2"></line>
+                <text fill="currentColor" y="9" dy="0.71em" class="PrecipIntensityBarChart--xAxisLabel--3Nu0K"></text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(124.5,0)">
+                <line stroke="currentColor" y2="6" class="PrecipIntensityBarChart--minuteTick--2GIs2"></line>
+                <text fill="currentColor" y="9" dy="0.71em" class="PrecipIntensityBarChart--xAxisLabel--3Nu0K"></text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(146.5,0)">
+                <line stroke="currentColor" y2="7" class="PrecipIntensityBarChart--hourTick--1gctM"></line>
+                <text fill="currentColor" y="14" dy="0.71em" class="PrecipIntensityBarChart--xAxisLabel--3Nu0K">8p</text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(168.5,0)">
+                <line stroke="currentColor" y2="6" class="PrecipIntensityBarChart--minuteTick--2GIs2"></line>
+                <text fill="currentColor" y="9" dy="0.71em" class="PrecipIntensityBarChart--xAxisLabel--3Nu0K"></text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(190.5,0)">
+                <line stroke="currentColor" y2="6" class="PrecipIntensityBarChart--minuteTick--2GIs2"></line>
+                <text fill="currentColor" y="9" dy="0.71em" class="PrecipIntensityBarChart--xAxisLabel--3Nu0K"></text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(212.5,0)">
+                <line stroke="currentColor" y2="6" class="PrecipIntensityBarChart--minuteTick--2GIs2"></line>
+                <text fill="currentColor" y="9" dy="0.71em" class="PrecipIntensityBarChart--xAxisLabel--3Nu0K"></text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(234.5,0)">
+                <line stroke="currentColor" y2="7" class="PrecipIntensityBarChart--hourTick--1gctM"></line>
+                <text fill="currentColor" y="14" dy="0.71em" class="PrecipIntensityBarChart--xAxisLabel--3Nu0K">9p</text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(256.5,0)">
+                <line stroke="currentColor" y2="6" class="PrecipIntensityBarChart--minuteTick--2GIs2"></line>
+                <text fill="currentColor" y="9" dy="0.71em" class="PrecipIntensityBarChart--xAxisLabel--3Nu0K"></text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(278.5,0)">
+                <line stroke="currentColor" y2="6" class="PrecipIntensityBarChart--minuteTick--2GIs2"></line>
+                <text fill="currentColor" y="9" dy="0.71em" class="PrecipIntensityBarChart--xAxisLabel--3Nu0K"></text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(300.5,0)">
+                <line stroke="currentColor" y2="6" class="PrecipIntensityBarChart--minuteTick--2GIs2"></line>
+                <text fill="currentColor" y="9" dy="0.71em" class="PrecipIntensityBarChart--xAxisLabel--3Nu0K"></text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(322.5,0)">
+                <line stroke="currentColor" y2="7" class="PrecipIntensityBarChart--hourTick--1gctM"></line>
+                <text fill="currentColor" y="14" dy="0.71em" class="PrecipIntensityBarChart--xAxisLabel--3Nu0K">10p</text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(344.5,0)">
+                <line stroke="currentColor" y2="6" class="PrecipIntensityBarChart--minuteTick--2GIs2"></line>
+                <text fill="currentColor" y="9" dy="0.71em" class="PrecipIntensityBarChart--xAxisLabel--3Nu0K"></text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(366.5,0)">
+                <line stroke="currentColor" y2="6" class="PrecipIntensityBarChart--minuteTick--2GIs2"></line>
+                <text fill="currentColor" y="9" dy="0.71em" class="PrecipIntensityBarChart--xAxisLabel--3Nu0K"></text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(388.5,0)">
+                <line stroke="currentColor" y2="6" class="PrecipIntensityBarChart--minuteTick--2GIs2"></line>
+                <text fill="currentColor" y="9" dy="0.71em" class="PrecipIntensityBarChart--xAxisLabel--3Nu0K"></text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(410.5,0)">
+                <line stroke="currentColor" y2="7" class="PrecipIntensityBarChart--hourTick--1gctM"></line>
+                <text fill="currentColor" y="14" dy="0.71em" class="PrecipIntensityBarChart--xAxisLabel--3Nu0K">11p</text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(432.5,0)">
+                <line stroke="currentColor" y2="6" class="PrecipIntensityBarChart--minuteTick--2GIs2"></line>
+                <text fill="currentColor" y="9" dy="0.71em" class="PrecipIntensityBarChart--xAxisLabel--3Nu0K"></text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(454.5,0)">
+                <line stroke="currentColor" y2="6" class="PrecipIntensityBarChart--minuteTick--2GIs2"></line>
+                <text fill="currentColor" y="9" dy="0.71em" class="PrecipIntensityBarChart--xAxisLabel--3Nu0K"></text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(476.5,0)">
+                <line stroke="currentColor" y2="6" class="PrecipIntensityBarChart--minuteTick--2GIs2"></line>
+                <text fill="currentColor" y="9" dy="0.71em" class="PrecipIntensityBarChart--xAxisLabel--3Nu0K"></text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(498.5,0)">
+                <line stroke="currentColor" y2="7" class="PrecipIntensityBarChart--hourTick--1gctM"></line>
+                <text fill="currentColor" y="14" dy="0.71em" class="PrecipIntensityBarChart--xAxisLabel--3Nu0K">12a</text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(520.5,0)">
+                <line stroke="currentColor" y2="6" class="PrecipIntensityBarChart--minuteTick--2GIs2"></line>
+                <text fill="currentColor" y="9" dy="0.71em" class="PrecipIntensityBarChart--xAxisLabel--3Nu0K"></text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(542.5,0)">
+                <line stroke="currentColor" y2="6" class="PrecipIntensityBarChart--minuteTick--2GIs2"></line>
+                <text fill="currentColor" y="9" dy="0.71em" class="PrecipIntensityBarChart--xAxisLabel--3Nu0K"></text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(564.5,0)">
+                <line stroke="currentColor" y2="6" class="PrecipIntensityBarChart--minuteTick--2GIs2"></line>
+                <text fill="currentColor" y="9" dy="0.71em" class="PrecipIntensityBarChart--xAxisLabel--3Nu0K"></text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(586.5,0)">
+                <line stroke="currentColor" y2="7" class="PrecipIntensityBarChart--hourTick--1gctM"></line>
+                <text fill="currentColor" y="14" dy="0.71em" class="PrecipIntensityBarChart--xAxisLabel--3Nu0K">1a</text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(608.5,0)">
+                <line stroke="currentColor" y2="6" class="PrecipIntensityBarChart--minuteTick--2GIs2"></line>
+                <text fill="currentColor" y="9" dy="0.71em" class="PrecipIntensityBarChart--xAxisLabel--3Nu0K"></text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(630.5,0)">
+                <line stroke="currentColor" y2="6" class="PrecipIntensityBarChart--minuteTick--2GIs2"></line>
+                <text fill="currentColor" y="9" dy="0.71em" class="PrecipIntensityBarChart--xAxisLabel--3Nu0K"></text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(652.5,0)">
+                <line stroke="currentColor" y2="6" class="PrecipIntensityBarChart--minuteTick--2GIs2"></line>
+                <text fill="currentColor" y="9" dy="0.71em" class="PrecipIntensityBarChart--xAxisLabel--3Nu0K"></text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(674.5,0)">
+                <line stroke="currentColor" y2="7" class="PrecipIntensityBarChart--hourTick--1gctM"></line>
+                <text fill="currentColor" y="14" dy="0.71em" class="PrecipIntensityBarChart--xAxisLabel--3Nu0K">2a</text>
+            </g>
+        </g>
+        <line class="PrecipIntensityBarChart--domain--3B-AL" stroke="currenColor" y1="110" y2="110" x1="47.5" x2="663.5"></line>
+        <g class="yAxis" fill="none" font-size="10" font-family="sans-serif" text-anchor="start">
+            <g class="tick" opacity="1" transform="translate(0,110.5)">
+                <line stroke="currentColor" x2="0"></line>
+                <text fill="currentColor" x="-3" dy="0.32em" class="PrecipIntensityBarChart--yAxisLabel--29hYk"></text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(0,99.5)">
+                <line stroke="currentColor" x2="0"></line>
+                <text fill="currentColor" x="0" dy="-0.32em" class="PrecipIntensityBarChart--yAxisLabel--29hYk">Light</text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(0,88.5)">
+                <line stroke="currentColor" x2="0"></line>
+                <text fill="currentColor" x="-3" dy="0.32em" class="PrecipIntensityBarChart--yAxisLabel--29hYk"></text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(0,77.5)">
+                <line stroke="currentColor" x2="0"></line>
+                <text fill="currentColor" x="-3" dy="0.32em" class="PrecipIntensityBarChart--yAxisLabel--29hYk"></text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(0,66.5)">
+                <line stroke="currentColor" x2="0"></line>
+                <text fill="currentColor" x="0" dy="-0.32em" class="PrecipIntensityBarChart--yAxisLabel--29hYk">Mod.</text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(0,54.5)">
+                <line stroke="currentColor" x2="0"></line>
+                <text fill="currentColor" x="-3" dy="0.32em" class="PrecipIntensityBarChart--yAxisLabel--29hYk"></text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(0,43.5)">
+                <line stroke="currentColor" x2="0"></line>
+                <text fill="currentColor" x="-3" dy="0.32em" class="PrecipIntensityBarChart--yAxisLabel--29hYk"></text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(0,32.5)">
+                <line stroke="currentColor" x2="0"></line>
+                <text fill="currentColor" x="0" dy="-0.32em" class="PrecipIntensityBarChart--yAxisLabel--29hYk">Heavy</text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(0,21.5)">
+                <line stroke="currentColor" x2="0"></line>
+                <text fill="currentColor" x="-3" dy="0.32em" class="PrecipIntensityBarChart--yAxisLabel--29hYk"></text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(0,10.5)">
+                <line stroke="currentColor" x2="0"></line>
+                <text fill="currentColor" x="-3" dy="0.32em" class="PrecipIntensityBarChart--yAxisLabel--29hYk"></text>
+            </g>
+        </g>
+        <g class="PrecipIntensityBarChart--grid--JfINM grid" fill="none" font-size="10" font-family="sans-serif" text-anchor="end">
+            <g class="tick" opacity="1" transform="translate(0,110.5)">
+                <line stroke="currentColor" x2="663.5" class="gridLine" x1="47.5"></line>
+            </g>
+            <g class="tick" opacity="1" transform="translate(0,99.5)">
+                <line stroke="currentColor" x2="663.5" class="gridLine" x1="47.5"></line>
+            </g>
+            <g class="tick" opacity="1" transform="translate(0,88.5)">
+                <line stroke="currentColor" x2="663.5" class="gridLine" x1="47.5"></line>
+            </g>
+            <g class="tick" opacity="1" transform="translate(0,77.5)">
+                <line stroke="currentColor" x2="663.5" class="gridLine" x1="47.5"></line>
+            </g>
+            <g class="tick" opacity="1" transform="translate(0,66.5)">
+                <line stroke="currentColor" x2="663.5" class="gridLine" x1="47.5"></line>
+            </g>
+            <g class="tick" opacity="1" transform="translate(0,54.5)">
+                <line stroke="currentColor" x2="663.5" class="gridLine" x1="47.5"></line>
+            </g>
+            <g class="tick" opacity="1" transform="translate(0,43.5)">
+                <line stroke="currentColor" x2="663.5" class="gridLine" x1="47.5"></line>
+            </g>
+            <g class="tick" opacity="1" transform="translate(0,32.5)">
+                <line stroke="currentColor" x2="663.5" class="gridLine" x1="47.5"></line>
+            </g>
+            <g class="tick" opacity="1" transform="translate(0,21.5)">
+                <line stroke="currentColor" x2="663.5" class="gridLine" x1="47.5"></line>
+            </g>
+            <g class="tick" opacity="1" transform="translate(0,10.5)">
+                <line stroke="currentColor" x2="663.5" class="gridLine" x1="47.5"></line>
+            </g>
+        </g>
+        <g class="bars">
+            <path d="M58.5,102h0a5.5,5.5 0 0 1 5.5,5.5v-3v5.5h-5.5h0h-5.5v-5.5v3a5.5,5.5 0 0 1 5.5,-5.5z" fill="url(#precipchart_snow_gradient)"></path>
+            <path d="M80.5,102h0a5.5,5.5 0 0 1 5.5,5.5v-3v5.5h-5.5h0h-5.5v-5.5v3a5.5,5.5 0 0 1 5.5,-5.5z" fill="url(#precipchart_snow_gradient)"></path>
+            <path d="M102.5,88h0a5.5,5.5 0 0 1 5.5,5.5v11v5.5h-5.5h0h-5.5v-5.5v-11a5.5,5.5 0 0 1 5.5,-5.5z" fill="url(#precipchart_snow_gradient)"></path>
+            <path d="M124.5,88h0a5.5,5.5 0 0 1 5.5,5.5v11v5.5h-5.5h0h-5.5v-5.5v-11a5.5,5.5 0 0 1 5.5,-5.5z" fill="url(#precipchart_snow_gradient)"></path>
+            <path d="M146.5,54h0a5.5,5.5 0 0 1 5.5,5.5v45v5.5h-5.5h0h-5.5v-5.5v-45a5.5,5.5 0 0 1 5.5,-5.5z" fill="url(#precipchart_snow_gradient)"></path>
+            <path d="M168.5,77h0a5.5,5.5 0 0 1 5.5,5.5v22v5.5h-5.5h0h-5.5v-5.5v-22a5.5,5.5 0 0 1 5.5,-5.5z" fill="url(#precipchart_snow_gradient)"></path>
+            <path d="M190.5,102h0a5.5,5.5 0 0 1 5.5,5.5v-3v5.5h-5.5h0h-5.5v-5.5v3a5.5,5.5 0 0 1 5.5,-5.5z" fill="url(#precipchart_snow_gradient)"></path>
+            <path d="M212.5,102h0a5.5,5.5 0 0 1 5.5,5.5v-3v5.5h-5.5h0h-5.5v-5.5v3a5.5,5.5 0 0 1 5.5,-5.5z" fill="url(#precipchart_snow_gradient)"></path>
+            <path d="M234.5,102h0a5.5,5.5 0 0 1 5.5,5.5v-3v5.5h-5.5h0h-5.5v-5.5v3a5.5,5.5 0 0 1 5.5,-5.5z" fill="url(#precipchart_snow_gradient)"></path>
+            <path d="M256.5,102h0a5.5,5.5 0 0 1 5.5,5.5v-3v5.5h-5.5h0h-5.5v-5.5v3a5.5,5.5 0 0 1 5.5,-5.5z" fill="url(#precipchart_snow_gradient)"></path>
+            <path d="M278.5,102h0a5.5,5.5 0 0 1 5.5,5.5v-3v5.5h-5.5h0h-5.5v-5.5v3a5.5,5.5 0 0 1 5.5,-5.5z" fill="url(#precipchart_snow_gradient)"></path>
+            <path d="M300.5,102h0a5.5,5.5 0 0 1 5.5,5.5v-3v5.5h-5.5h0h-5.5v-5.5v3a5.5,5.5 0 0 1 5.5,-5.5z" fill="url(#precipchart_snow_gradient)"></path>
+            <path d="M322.5,102h0a5.5,5.5 0 0 1 5.5,5.5v-3v5.5h-5.5h0h-5.5v-5.5v3a5.5,5.5 0 0 1 5.5,-5.5z" fill="url(#precipchart_snow_gradient)"></path>
+            <path d="M344.5,88h0a5.5,5.5 0 0 1 5.5,5.5v11v5.5h-5.5h0h-5.5v-5.5v-11a5.5,5.5 0 0 1 5.5,-5.5z" fill="url(#precipchart_snow_gradient)"></path>
+            <path d="M366.5,102h0a5.5,5.5 0 0 1 5.5,5.5v-3v5.5h-5.5h0h-5.5v-5.5v3a5.5,5.5 0 0 1 5.5,-5.5z" fill="url(#precipchart_snow_gradient)"></path>
+            <path d="M388.5,102h0a5.5,5.5 0 0 1 5.5,5.5v-3v5.5h-5.5h0h-5.5v-5.5v3a5.5,5.5 0 0 1 5.5,-5.5z" fill="url(#precipchart_snow_gradient)"></path>
+            <path d="M410.5,88h0a5.5,5.5 0 0 1 5.5,5.5v11v5.5h-5.5h0h-5.5v-5.5v-11a5.5,5.5 0 0 1 5.5,-5.5z" fill="url(#precipchart_snow_gradient)"></path>
+            <path d="M432.5,54h0a5.5,5.5 0 0 1 5.5,5.5v45v5.5h-5.5h0h-5.5v-5.5v-45a5.5,5.5 0 0 1 5.5,-5.5z" fill="url(#precipchart_snow_gradient)"></path>
+            <path d="M454.5,54h0a5.5,5.5 0 0 1 5.5,5.5v45v5.5h-5.5h0h-5.5v-5.5v-45a5.5,5.5 0 0 1 5.5,-5.5z" fill="url(#precipchart_snow_gradient)"></path>
+            <path d="M476.5,88h0a5.5,5.5 0 0 1 5.5,5.5v11v5.5h-5.5h0h-5.5v-5.5v-11a5.5,5.5 0 0 1 5.5,-5.5z" fill="url(#precipchart_snow_gradient)"></path>
+            <path d="M498.5,102h0a5.5,5.5 0 0 1 5.5,5.5v-3v5.5h-5.5h0h-5.5v-5.5v3a5.5,5.5 0 0 1 5.5,-5.5z" fill="url(#precipchart_snow_gradient)"></path>
+            <path d="M520.5,88h0a5.5,5.5 0 0 1 5.5,5.5v11v5.5h-5.5h0h-5.5v-5.5v-11a5.5,5.5 0 0 1 5.5,-5.5z" fill="url(#precipchart_snow_gradient)"></path>
+            <path d="M542.5,88h0a5.5,5.5 0 0 1 5.5,5.5v11v5.5h-5.5h0h-5.5v-5.5v-11a5.5,5.5 0 0 1 5.5,-5.5z" fill="url(#precipchart_snow_gradient)"></path>
+            <path d="M564.5,102h0a5.5,5.5 0 0 1 5.5,5.5v-3v5.5h-5.5h0h-5.5v-5.5v3a5.5,5.5 0 0 1 5.5,-5.5z" fill="url(#precipchart_snow_gradient)"></path>
+            <path fill="url(#precipchart_snow_gradient)"></path>
+            <path fill="url(#precipchart_snow_gradient)"></path>
+            <path fill="url(#precipchart_snow_gradient)"></path>
+            <path fill="url(#precipchart_snow_gradient)"></path>
+        </g>
+    </g>
+</svg>

@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { Summary } from "./components";
+import { Summary, Chart } from "./components";
 
 const Root = styled.main`
   width: 84%;
@@ -27,6 +27,7 @@ export const Main = () => (
   <Root>
     <PrimarySection>
       <Summary />
+      <Chart />
     </PrimarySection>
 
     <SideSection></SideSection>
