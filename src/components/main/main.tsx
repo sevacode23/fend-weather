@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-import { Summary, Chart, Today, Hourly, Miss, Safe } from "./components";
+import { Summary, Chart, Today, Hourly, Miss, Safe, Radar } from "./components";
 
 const Root = styled.main`
   width: 84%;
@@ -23,6 +23,10 @@ const SideSection = styled.section`
   margin-left: 16px;
   flex: 1;
   min-width: 340px;
+
+  > * + * {
+    margin-top: 12px;
+  }
 `;
 
 export const Main = () => (
@@ -37,6 +41,7 @@ export const Main = () => (
 
     <SideSection>
       <Safe />
+      <Radar />
     </SideSection>
   </Root>
 );
