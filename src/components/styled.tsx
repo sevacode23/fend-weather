@@ -8,11 +8,10 @@ export const DropTip = styled.i`
   border-top: 8px solid white;
 `;
 
-export const ContentContainer = styled.div<{
+export const Card = styled.div<{
   withShadow?: boolean;
   withTransparentBg?: boolean;
 }>`
-  display: flex;
   border-radius: 6px;
   padding: 16px;
   line-height: 1.5;
@@ -25,4 +24,8 @@ export const ContentContainer = styled.div<{
   &:not(:first-child) {
     margin-top: 12px;
   }
+`;
+
+export const CardHead = styled.h3`
+  margin-bottom: 6px;
 `;

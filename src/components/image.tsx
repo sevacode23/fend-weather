@@ -36,6 +36,7 @@ const IMAGE_MAP = {
   disabled: require("../assets/icons/disabled.svg"),
   cloud: require("../assets/icons/cloud.svg"),
   chart: require("../assets/icons/chart.svg"),
+  mark: require("../assets/icons/mark.svg"),
 };
 
 interface IProps extends ISizeParams {

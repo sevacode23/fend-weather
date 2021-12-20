@@ -1,9 +1,9 @@
 import styled from "styled-components";
 
 import { Image } from "../../image";
-import { ContentContainer } from "../../styled";
+import { Card } from "../../styled";
 
-const Root = styled(ContentContainer)`
+const Root = styled(Card)`
   justify-content: space-between;
   padding: 21px 30px;
   color: white;
@@ -50,9 +50,9 @@ const VideoLink = styled.p`
   }
 `;
 
-const ImageContainer = styled.div``;
-
-const SlashTemperatureText = styled.b``;
+const SlashTemperatureText = styled.b`
+  font-size: 20px;
+`;
 
 export const Summary = () => (
   <Root withTransparentBg>
@@ -67,10 +67,10 @@ export const Summary = () => (
       </VideoLink>
     </LeftContainer>
     <RightContainer>
-      <ImageContainer>
+      <div>
         <Image file="cloud" width="60px" />
         <SlashTemperatureText>--/15°</SlashTemperatureText>
-      </ImageContainer>
+      </div>
     </RightContainer>
   </Root>
 );

@@ -1,9 +1,9 @@
 import styled from "styled-components";
 
 import { Image } from "../../image";
-import { ContentContainer } from "../../styled";
+import { Card } from "../../styled";
 
-const Root = styled(ContentContainer)`
+const Root = styled(Card)`
   flex-direction: column;
   font-size: 20px;
   padding: 0;
