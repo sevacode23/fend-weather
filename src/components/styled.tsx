@@ -27,5 +27,18 @@ export const Card = styled.div<{
 `;
 
 export const CardHead = styled.h3`
-  margin-bottom: 6px;
+  margin-bottom: 12px;
+`;
+
+export const CardButton = styled.button`
+  margin: 5px;
+  margin-top: 12px;
+  background-color: #1b4de4;
+  border: 1px solid #1b4de4;
+  padding: 8px 14px;
+  color: white;
+  font-size: 14px;
+  font-weight: 600;
+  border-radius: 16px;
+  cursor: pointer;
 `;

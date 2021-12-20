@@ -1,4 +1,4 @@
-import { Card, CardHead } from "../../styled";
+import { Card, CardButton, CardHead } from "../../styled";
 
 import { SplitData } from "./split-data";
 
@@ -40,5 +40,6 @@ export const Hourly = () => (
         },
       ]}
     />
+    <CardButton>Next 48 Hours</CardButton>
   </Card>
 );

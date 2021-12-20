@@ -4,12 +4,11 @@ import { Image } from "../../image";
 import { Card } from "../../styled";
 
 const Root = styled(Card)`
+  display: flex;
   justify-content: space-between;
   padding: 21px 30px;
   color: white;
 `;
-
-const LeftContainer = styled.div``;
 
 const RightContainer = styled.div`
   display: flex;
@@ -56,7 +55,7 @@ const SlashTemperatureText = styled.b`
 
 export const Summary = () => (
   <Root withTransparentBg>
-    <LeftContainer>
+    <div>
       <LocationText>Kyiv, Kiev, Ukraine Weather</LocationText>
       <TimeText>As of 6:50 pm EET</TimeText>
       <Temperature>28°</Temperature>
@@ -65,7 +64,7 @@ export const Summary = () => (
         <Image file="play" width="24px" />
         <span>Watch: Snow Isn't Really White and 8 Other Cool Snow Facts</span>
       </VideoLink>
-    </LeftContainer>
+    </div>
     <RightContainer>
       <div>
         <Image file="cloud" width="60px" />

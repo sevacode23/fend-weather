@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-import { Summary, Chart, Today, Hourly } from "./components";
+import { Summary, Chart, Today, Hourly, Miss } from "./components";
 
 const Root = styled.main`
   width: 84%;
@@ -30,6 +30,7 @@ export const Main = () => (
       <Summary />
       <Chart />
       <Today />
+      <Miss />
       <Hourly />
     </PrimarySection>
 

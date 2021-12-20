@@ -1,4 +1,4 @@
-import { Card, CardHead } from "../../styled";
+import { CardButton, Card, CardHead } from "../../styled";
 import { SplitData } from "./split-data";
 
 export const Today = () => (
@@ -19,5 +19,6 @@ export const Today = () => (
         { title: "Overnight", temperature: 21, percent: 37 },
       ]}
     />
+    <CardButton>Next Hours</CardButton>
   </Card>
 );
